@@ -32,6 +32,13 @@ Config (`BepInEx/config/espi.gmsde.borderless.cfg`), all live-reload:
 - `Center` (true): centers on the current monitor. `X`/`Y` (0) used when false.
 - `ToggleKey` (F10)
 
+## Release (one command)
+```powershell
+.\release.cmd
+```
+(Or double-click `release.cmd`. It runs `release.ps1` without needing a change to the execution policy.)
+Builds both plugins in Docker and writes `release/FovUnlock-vX.Y.Z.zip` and `release/BorderlessWindow-vX.Y.Z.zip` (version from each `Plugin.cs`). Each zip holds `BepInEx/plugins/<dll>`; upload it to Nexus as is. Other install path: `-GameDir "D:\path\to\game"`.
+
 ## Build (Docker)
 Run from the repository root:
 
