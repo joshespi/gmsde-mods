@@ -6,7 +6,7 @@ Source code for small quality-of-life mods for Gold Mining Simulator: Definitive
 - Borderless Window: https://www.nexusmods.com/goldminingsimulatordefinitiveedition/mods/29
 - Release zips: `release/`
 
-BepInEx 5.4.23.3 (x64, Mono) plugin. Game is Unity 2022.3.62f3.
+Both are BepInEx 5.4.23.3 (x64, Mono) plugins. Game is Unity 2022.3.62f3.
 
 ## FOV Unlock (`fov-unlock/`)
 
