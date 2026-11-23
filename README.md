@@ -1,5 +1,7 @@
 # GMS:DE plugins: FOV Unlock + Borderless Window
 
+Source code for small quality-of-life mods for Gold Mining Simulator: Definitive Edition (GMS:DE), a Unity game on Steam. Each mod is a standalone BepInEx plugin with its own folder and project. This repo holds the source and build instructions; the compiled mods are published on Nexus Mods.
+
 - FOV Unlock: https://www.nexusmods.com/goldminingsimulatordefinitiveedition/mods/28
 - Borderless Window: https://www.nexusmods.com/goldminingsimulatordefinitiveedition/mods/29
 - Release zips: `release/`
